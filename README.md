@@ -9,6 +9,15 @@ This is a simple **Snake Game** implemented in **Python** using the **Pygame** l
 - **Collision Detection**: The game ends when the snake collides with itself or the walls.
 - **Game Window**: The game runs in a 600x400 pixel window with a simple interface.
 
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Wajaahath/snake-game.git
+   cd snake-game
+   pip install pygame
+   python snake_game.py
+
 ## Controls
 - **Arrow Keys**: Move the snake (Up, Down, Left, Right).
 
